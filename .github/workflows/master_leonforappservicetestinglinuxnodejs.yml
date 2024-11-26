@@ -59,4 +59,4 @@ jobs:
           app-name: 'LeonForAppServiceTestingLinuxNodeJS'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7A41EDDF3A2B4479ADA3CC7B7560A1A6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_10F5B792527945DFBD5548B5FEA7333C }}
